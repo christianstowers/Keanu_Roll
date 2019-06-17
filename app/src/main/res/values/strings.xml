@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="dice_roll_label">Roll 20 Instant Death</string>
+    <string name="result">result</string>
+</resources>
