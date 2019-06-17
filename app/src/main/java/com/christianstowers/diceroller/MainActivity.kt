@@ -34,12 +34,12 @@ class MainActivity : AppCompatActivity() {
             else -> R.drawable.dice_6
         }
         val diceRollText = when(randomInt) {
-            1 -> "one"
-            2 -> "two"
-            3 -> "three"
-            4 -> "four"
-            5 -> "five"
-            else -> "six"
+            1 -> "one!"
+            2 -> "two!"
+            3 -> "three!"
+            4 -> "four!"
+            5 -> "five!"
+            else -> "six!"
         }
 
 
